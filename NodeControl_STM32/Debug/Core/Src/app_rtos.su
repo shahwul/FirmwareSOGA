@@ -1,0 +1,10 @@
+../Core/Src/app_rtos.c:28:5:_write	24	static
+../Core/Src/app_rtos.c:35:13:Report_ControlState	320	static
+../Core/Src/app_rtos.c:45:13:Parse_SoilMoistureArray	72	static
+../Core/Src/app_rtos.c:62:13:Process_InboundJSON	96	static
+../Core/Src/app_rtos.c:136:6:App_System_Init	8	static
+../Core/Src/app_rtos.c:142:6:App_TaskTelemetry_Run	464	static
+../Core/Src/app_rtos.c:180:6:App_TaskIrrigation_Run	80	static
+../Core/Src/app_rtos.c:267:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/app_rtos.c:275:6:HAL_UART_RxCpltCallback	24	static,ignoring_inline_asm
+../Core/Src/app_rtos.c:296:6:HAL_UART_ErrorCallback	32	static
